@@ -16,7 +16,7 @@
     "isomorphic-unfetch": "^2.1.1",
     "next": "^8.0.4",
     "node-sass": "^4.11.0",
-    "react": "^16.4.2",
+    "react": "^16.13.1",
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
